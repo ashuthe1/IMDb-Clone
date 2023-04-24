@@ -6,6 +6,9 @@
   "scripts": {
     "start": "node server.js"
   },
+  "engines": {
+    "node": ">=14 <15"
+  },
   "author": "Ashutosh",
   "license": "ISC",
   "dependencies": {
